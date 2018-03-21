@@ -3,3 +3,9 @@ es6
 lib
 umd
 coverage
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/history.iml
+.idea/modules.xml
+.idea/watcherTasks.xml
